@@ -1,0 +1,21 @@
+Age,Weight,Hemoglobin,BP_Systolic,BP_Diastolic,Heart_Rate,Temperature_F,Previous_Donation,Result
+22,60,13.5,120,80,72,98.4,No,Low Concern
+25,65,14.1,118,78,70,98.2,Yes,Low Concern
+30,72,13.8,122,82,75,98.6,No,Low Concern
+28,55,12.9,125,80,78,98.5,No,Low Concern
+35,80,14.5,120,75,68,98.1,Yes,Low Concern
+24,52,11.2,130,85,88,98.7,No,Needs Review
+42,75,13.7,128,82,76,98.4,Yes,Low Concern
+19,50,12.8,118,76,80,98.3,No,Low Concern
+45,90,13.9,135,88,82,98.6,Yes,Low Concern
+31,68,10.9,126,81,85,98.5,No,Needs Review
+27,62,13.6,119,79,74,98.2,No,Low Concern
+52,78,13.4,132,84,80,98.6,Yes,Low Concern
+21,48,11.5,115,75,76,98.1,No,Needs Review
+37,82,14.2,121,80,70,98.4,Yes,Low Concern
+29,70,13.1,124,82,77,98.5,No,Low Concern
+33,58,12.0,138,90,92,98.8,No,Needs Review
+40,85,13.8,127,83,73,98.3,Yes,Low Concern
+26,64,14.0,116,77,69,98.2,No,Low Concern
+23,54,13.2,120,79,71,98.4,No,Low Concern
+48,92,12.7,140,92,95,99.0,Yes,Needs Review
